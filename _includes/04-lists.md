@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* I love Sleeping!
+* I love eating watermelons. 
+* I enjoy Roald Dahl's books a lot!
